@@ -6,6 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="permission-dao" />
+        <module name="permission-domain" />
+        <module name="permission-service" />
+        <module name="permission-utils" />
+        <module name="permission-web" />
         <module name="permissiondao" />
         <module name="permissiondomain" />
         <module name="permissionservice" />
